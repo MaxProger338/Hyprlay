@@ -1,5 +1,7 @@
 ![layouts](docs/assets/layouts.png)
 
+<hr>
+
 ### 🚀 Features
 
 - All actions with the system are tied to the keyboard
