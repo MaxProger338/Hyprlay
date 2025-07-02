@@ -1,5 +1,4 @@
 ![layouts](docs/assets/layouts.png)
-
 <hr>
 
 ### 🚀 Features
